@@ -1,9 +1,0 @@
-node_modules
-out
-dist
-npm-debug.log
-Electron API Demos-win32-x64
-mydb-leveldb
-dbfiles/**
-
-.idea/workspace.xml
