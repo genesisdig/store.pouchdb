@@ -52,7 +52,7 @@
     "express-pouchdb": "^0.14.0",
     "lodash": "^3.0.0",
     "mkdirp": "^0.5.0",
-    "pouchdb": "^3.3.1"
+    "pouchdb": "^6.4.3"
   },
   "devDependencies": {
     "browserify": "^8.1.3",
