@@ -1,4 +1,4 @@
-#### *DEPRECATED (This plugin is no longer maintained*
+#### *DEPRECATED (This plugin is no longer maintained)*
 #### Archive:
 
 ---
